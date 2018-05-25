@@ -207,7 +207,7 @@ NOTAS:
 **Si estas interesado en ver las entrevistas completas
 puedes visitar los siguientes sitios:**
 
-* Entrevistas [trainings Manager(CDMX,LIMA, CHILE)](https://pages.github.com/).
+* Entrevistas [trainings Manager(CDMX,LIMA, CHILE)](https://drive.google.com/open?id=1wKIMGjTSjdT5Lx2akRhkAeIbgbVhMpOE).
 * Entrevistas [Amelie Castillo(coach GDL)](https://pages.github.com/).
 * Entrevistas [Yesenia Sanchez(coach GDL)](https://pages.github.com/).
 * Entrevistas [Karla Rejas(Training Manager GDL)](https://pages.github.com/).
