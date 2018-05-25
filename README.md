@@ -233,17 +233,17 @@ Y LA MUESTRE DE FORMA CLARA Y ESPECIFICA.
 ***
 ```javascript
 HIPOTESIS:
-¿Con esta Herramienta se Reduciran en un 50% los tiempo para obtener el data de las alumnas?
+Con esta herramienta, el equipo de formación de Laboratoria reducirá los tiempos para la obtenención de la data.
 
 ```
 **PALABRAS CLAVE OBTENIDAS EN LAS ENTREVISTAS PARA DETERMINAR EL PROBLEMA:**
 
 * INFORMACION DISPERSA EN VARIOS ARCHIVOS.
-* ES DEMASIADA INFROMACION LA QUE SE TIENE QUE ANALIZAR A LA VEZ Y SE HACEN
-LENTOS LO EQUIPOS.
+* ES DEMASIADA INFORMACION LA QUE SE TIENE QUE ANALIZAR A LA VEZ Y SE HACEN
+LENTOS LOS EQUIPOS.
 * SE INVIERTE MUCHO TIEMPO.
 * ES DIFICIL CONCENTRAR TODA LA INFORMACION EN GRAFICOS.
-*
+* ES COMPLICADO MANIPULAR LA DATA. 
 
 
 
@@ -251,11 +251,11 @@ LENTOS LO EQUIPOS.
 
 ```javascript
 PLANTEAMIENTO DEL PROBLEMA:
-
-Toda la data que se tiene en laboratoria es manejada
-a traves de archivos de excel o de google form lo que
-hace muy dificil el accceso y la manipulacion de esta
-DATA provocando con esto que se tome demasiado tiempo en
-entregar resultados generados a partir de dicha DATA.
+Toda la data que se tiene en laboratoria está dispersa y es manejada
+a través de archivos de excel o de google form lo que
+hace muy dificil el accceso y la manipulacion de esta;
+provocando con esto que se tome demasiado tiempo en
+entregar resultados generados a partir de una manipulación manual 
+de toda la información. 
 
 ```
