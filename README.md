@@ -231,11 +231,15 @@ Y LA MUESTRE DE FORMA CLARA Y ESPECIFICA.
 ***
 ### DEFINICION
 ***
-```javascript
-HIPOTESIS:
-Con esta herramienta, el equipo de formación de Laboratoria reducirá los tiempos para la obtenención de la data.
 
+```javascript
+
+PLANTEAMIENTO DEL PROBLEMA:
+Toda la data que se tiene en Laboratoria está dispersa y es manejada a través de archivos de excel o de google form, lo que hace muy difícil el acceso y la manipulación de la misma; provocando con esto que se tome demasiado tiempo en entregar resultados generados a partir de una manipulación e interpretación manual de toda la información.
 ```
+A continuación, el sketch sobre el planteamiento del problema:
+![Sketch sobre el planteamiento del problema](assets/images/IMG_3165.jpg)
+
 **PALABRAS CLAVE OBTENIDAS EN LAS ENTREVISTAS PARA DETERMINAR EL PROBLEMA:**
 
 * INFORMACION DISPERSA EN VARIOS ARCHIVOS.
@@ -243,19 +247,21 @@ Con esta herramienta, el equipo de formación de Laboratoria reducirá los tiemp
 LENTOS LOS EQUIPOS.
 * SE INVIERTE MUCHO TIEMPO.
 * ES DIFICIL CONCENTRAR TODA LA INFORMACION EN GRAFICOS.
-* ES COMPLICADO MANIPULAR LA DATA. 
+* ES COMPLICADO MANIPULAR LA DATA.
 
-
-
-
-
+## SOLUCION VIABLE PARA LA PROBLEMATICA
 ```javascript
-PLANTEAMIENTO DEL PROBLEMA:
-Toda la data que se tiene en laboratoria está dispersa y es manejada
-a través de archivos de excel o de google form lo que
-hace muy dificil el accceso y la manipulacion de esta;
-provocando con esto que se tome demasiado tiempo en
-entregar resultados generados a partir de una manipulación manual 
-de toda la información. 
+HIPOTESIS:
+Con esta herramienta, el equipo de formación de Laboratoria reducirá los tiempos para la obtención de la data.
 
 ```
+Aquí las imágenes para representar de una manera visual la herramienta web: 
+![Diapositiva 1](assets/images/IMG_3166.jpg)
+
+![Diapositiva 2](assets/images/IMG_3167.jpg)
+
+![Diapositiva 3](assets/images/IMG_3168.jpg)
+
+![Diapositiva 4](assets/images/IMG_3169.jpg)
+
+
