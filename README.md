@@ -170,6 +170,40 @@ SUS NECESIDADES:
 DETALLES IMPORTANTES:
 *Estaria Muy Aliviada si tuviera una herramienta que optimice los tiempos.    
 ```
+```javascript
+SAMANTHA
+HSE  SEDE  GUADALAJARA.
+3 MESES TRABAJANDO EN LABORATORIA.
+
+COMENTARIOS RELEVANTES:
+* En HSE se tiene la data en un excel, que es en donde se tiene también la asistencia y las decerciones.
+* Se tiene en forms las causas de cada decersión, no en archivos específicos, y a veces se pierde esta información.
+* Se tienen muchas hojas de excel y un archivo de word con información de situaciones personales por cada alumna.
+* Mi base de datos es muy distinta por ser la psicóloga en Laboratoria.
+* Para ver el perfil de alguien, se deben tener unos 5 archivos abiertos.
+
+FRECUENCIA CON QUE ACCEDE:
+* Diariamente.
+
+TIEMPO EN ACCEDER A UNA BUSQUEDA:
+* Al rededor de 3 minutos.
+
+NECESIDADES Y/O DESEOS:
+* Tener de cada alumna un archivo o un espacio en donde pueda tener notas de cada sesión con las distintas situaciones personales que vive cada una para poder evaluar toda esa información.
+* Que el producto tuviera una base de datos o un link en donde se pueda consultar la información en general y también las razones de una decersión en el perfil específico de una alumna, para poder llevar un historial. Es una necesidad muy específica.
+* Que el diseño fuera muy simplificado, no es necesario que tenga cosas extras.
+* Estaría muy bien que hubiera dos tipos de gráficas ,una individual, con una gráfica de comparación sobre cuál es el desempeño de la alumna sobre sí misma por sprint. Y que hubiera otra, con una comparación de desempeño de todas las alumnas en general.  
+* Cualquier gráfica funciona, pero a mí me gustan más la gráficas de barras.
+
+NOTAS:
+* Hay información que yo debo mantener en privado, aunque deba de
+ explicar de manera general a otras personas del equipo para que
+ estén enteradas de cuál es la situación de
+ cada alumna (si hay alguna situación familiar fuerte, etc),
+ pero sí me gustaría poder conservar un espacio par
+ a mí porque la verdad es difícil tener que acordarte de 27 historias...    
+```
+
 **Si estas interesado en ver las entrevistas completas
 puedes visitar los siguientes sitios:**
 
