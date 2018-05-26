@@ -1,5 +1,10 @@
 # **DATA-DASHBOARD**
 ---
+ELABORADOR POR:
+
+** LIZBETH PEREZ VIRGEN**
+** ELVIA VILLALOBOS.**
+
 ## Objetivo:
 Diseñar una Herramienta que le Permita a los Training Managers y Profesores de Laboratoria Consultar de Forma eficaz los siguientes datos:
 
@@ -22,9 +27,8 @@ Diseñar una Herramienta que le Permita a los Training Managers y Profesores de 
 
 - La puntuación promedio de las jedi masters.
 
-
-IMPLEMENTANDO TECNICA UX PARA DESARROLLAR NUESTRA HERRAMIENTA:
 ***
+
 ### Investigacion:
 Se llevaron a cabo entrevistas a los Usuarios(Profesores y Training Manager) de laboratoria para poder conocer sus necesidades, por lo que presentamos los puntos mas destacados de las Entrevistas Realizadas.
 ***
@@ -296,7 +300,7 @@ Para visualizar la Historia de Usuario Completa, te dejamos el siguiente enlace:
 
 ![Diapositiva 4](assets/images/IMG_3169.jpg)
 
-#### Una Vez que se motro el primer Borrador al Usuario se Hicieron Correcciones y se Presenta el Moqup Final:  
+#### Una Vez que se mostro el primer Borrador al Usuario se Hicieron Correcciones y se Presenta el Moqup Final:  
 
 
 ![Diapositiva 1](assets/img-sketch/PAGE1-2.JPG)
