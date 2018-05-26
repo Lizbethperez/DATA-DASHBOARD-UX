@@ -235,10 +235,24 @@ Y LA MUESTRE DE FORMA CLARA Y ESPECIFICA.
 ```javascript
 
 PLANTEAMIENTO DEL PROBLEMA:
-Toda la data que se tiene en Laboratoria está dispersa y es manejada a través de archivos de excel o de google form, lo que hace muy difícil el acceso y la manipulación de la misma; provocando con esto que se tome demasiado tiempo en entregar resultados generados a partir de una manipulación e interpretación manual de toda la información.
+Toda la data que se tiene en Laboratoria está dispersa y es
+manejada a través de archivos de excel o de google form, lo
+que hace muy difícil el acceso y la manipulación de la misma;
+provocando con esto que se tome demasiado tiempo en entregar
+resultados generados a partir de una manipulación e
+interpretación manual de toda la información.
+
 ```
-A continuación, el sketch sobre el planteamiento del problema:
-![Sketch sobre el planteamiento del problema](assets/images/IMG_3165.jpg)
+A continuación, te mostramos una parte del sketch que te muestra el planteamiento del problema. 
+Para ingresar al cómic completo, te dejamos el siguiente enlace:
+
+[Sketch comic completo](https://Pixton.com/es/:4a99nzn2)
+
+![Sketch sobre el planteamiento del problema](assets/images/Dos.png)
+
+
+
+
 
 **PALABRAS CLAVE OBTENIDAS EN LAS ENTREVISTAS PARA DETERMINAR EL PROBLEMA:**
 
