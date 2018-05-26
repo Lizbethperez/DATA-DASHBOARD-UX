@@ -26,9 +26,8 @@ Diseñar una Herramienta que le Permita a los Training Managers y Profesores de 
 IMPLEMENTANDO TECNICA UX PARA DESARROLLAR NUESTRA HERRAMIENTA:
 ***
 ### Investigacion:
-***
 Se llevaron a cabo entrevistas a los Usuarios(Profesores y Training Manager) de laboratoria para poder conocer sus necesidades, por lo que presentamos los puntos mas destacados de las Entrevistas Realizadas.
-
+***
 ```javascript
 AMELI CASTILLO GAVANTE
 COACH BOOTCAMP SEDE GUADALAJARA
@@ -208,9 +207,10 @@ NOTAS:
 puedes visitar los siguientes sitios:**
 
 * Entrevistas [trainings Manager(CDMX,LIMA, CHILE)](https://drive.google.com/open?id=1wKIMGjTSjdT5Lx2akRhkAeIbgbVhMpOE).
-* Entrevistas [Amelie Castillo(coach GDL)](https://pages.github.com/).
-* Entrevistas [Yesenia Sanchez(coach GDL)](https://pages.github.com/).
-* Entrevistas [Karla Rejas(Training Manager GDL)](https://pages.github.com/).
+* Entrevistas [Amelie Castillo(coach GDL)](https://www.youtube.com/watch?v=vkNDiGRlch8&t=37s).
+* Entrevistas [Yesenia Sanchez(coach GDL)](https://www.youtube.com/watch?v=WfA5FjN4rFQ&feature=share).
+* Entrevistas [Karla Rejas(Training Manager GDL)](https://www.facebook.com/blankmizaky/videos/10160389150115253/).
+* Entrevistas [Samantha(Training Manager GDL)](https://www.youtube.com/watch?v=j8vlV6c8IWg)
 
 
 #### ¿LO QUE DESCUBRIMOS A RAIZ DE LAS ENTREVISTAS?
@@ -230,29 +230,8 @@ Y LA MUESTRE DE FORMA CLARA Y ESPECIFICA.
 
 ***
 ### DEFINICION
+En este Punto se Definiran Posibles Soluciones o funcionalidades a partir de Tendencias Significativas y de Entender las Necesidades del Usuario.
 ***
-
-```javascript
-
-PLANTEAMIENTO DEL PROBLEMA:
-Toda la data que se tiene en Laboratoria está dispersa y es
-manejada a través de archivos de excel o de google form, lo
-que hace muy difícil el acceso y la manipulación de la misma;
-provocando con esto que se tome demasiado tiempo en entregar
-resultados generados a partir de una manipulación e
-interpretación manual de toda la información.
-
-```
-A continuación, te mostramos una parte del sketch que te muestra el planteamiento del problema. 
-Para ingresar al cómic completo, te dejamos el siguiente enlace:
-
-[Sketch comic completo](https://Pixton.com/es/:4a99nzn2)
-
-![Sketch sobre el planteamiento del problema](assets/images/Dos.png)
-
-
-
-
 
 **PALABRAS CLAVE OBTENIDAS EN LAS ENTREVISTAS PARA DETERMINAR EL PROBLEMA:**
 
@@ -263,13 +242,52 @@ LENTOS LOS EQUIPOS.
 * ES DIFICIL CONCENTRAR TODA LA INFORMACION EN GRAFICOS.
 * ES COMPLICADO MANIPULAR LA DATA.
 
-## SOLUCION VIABLE PARA LA PROBLEMATICA
 ```javascript
 HIPOTESIS:
-Con esta herramienta, el equipo de formación de Laboratoria reducirá los tiempos para la obtención de la data.
+-Con esta herramienta, el equipo de formación de Laboratoria reducirá los
+tiempos considerablemente para la obtención de la data.
+
+-El usuario Visualizara los datos centralizados y
+ organizados de una forma que sea mas facil su acceso y Gestion.
+
+-La experiencia del Usuario sera satisfactoría porque se
+encontrara con una plataforma mas atractiva visualmente.
 
 ```
-Aquí las imágenes para representar de una manera visual la herramienta web: 
+```javascript
+PLANTEAMIENTO DEL PROBLEMA:
+Toda la data que se tiene en Laboratoria está dispersa y es
+manejada a través de archivos de excel o de google form, lo que hace muy
+difícil el acceso y la manipulación de la misma; provocando con esto que se tome demasiado
+tiempo en entregar resultados generados a partir de una manipulación e interpretación manual de
+ toda la información.
+
+```
+***
+### IDEAR
+Buscar Posibles Soluciones para el Problema Planteado.
+***
+![Diapositiva 1](assets/images/diagrama.JPG)
+***
+### SKETCHING Y PROTOTYPING
+Se busca Distribuir y Definir cada uno de los componentes que Integraran las Herramienta.  
+***
+
+A continuación, te mostramos Parte de Nuestra Historia de Usuario, en donde se Plantea como la herramienta resolvera la problematica del  usuario.
+
+Para visualizar la Historia de Usuario Completa, te dejamos el siguiente enlace:
+
+[Historia de Usuario (Comic completo)](https://Pixton.com/es/:4a99nzn2)
+
+
+![Sketch sobre el planteamiento del problema](assets/images/Dos.png)
+
+
+## SKETCH
+
+#### Aquí se Muestra el Primer Borrador del Sketch de la Herramienta Empleada para Solucionar el problema Planteado:
+
+
 ![Diapositiva 1](assets/images/IMG_3166.jpg)
 
 ![Diapositiva 2](assets/images/IMG_3167.jpg)
@@ -278,4 +296,25 @@ Aquí las imágenes para representar de una manera visual la herramienta web:
 
 ![Diapositiva 4](assets/images/IMG_3169.jpg)
 
+#### Una Vez que se motro el primer Borrador al Usuario se Hicieron Correcciones y se Presenta el Moqup Final:  
 
+
+![Diapositiva 1](assets/img-sketch/PAGE1-2.JPG)
+
+![Diapositiva 2](assets/img-sketch/page3.JPG)
+
+![Diapositiva 3](assets/img-sketch/page4.JPG)
+
+![Diapositiva 4](assets/img-sketch/page5.JPG)
+
+![Diapositiva 3](assets/img-sketch/PAGE6.JPG)
+
+![Diapositiva 4](assets/img-sketch/page7.JPG)
+
+![Diapositiva 4](assets/img-sketch/page8.JPG)
+
+![Diapositiva 4](assets/img-sketch/page9.JPG)
+
+![Diapositiva 4](assets/img-sketch/page10.JPG)
+
+![Diapositiva 4](assets/img-sketch/PAGE11.JPG)
